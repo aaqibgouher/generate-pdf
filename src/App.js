@@ -253,7 +253,7 @@ function App() {
                     </Row>
                   </Container>
                   <h2 style={{ textAlign: "center", marginTop: "3rem" }}>
-                    Feedback Form
+                    Feedback Report
                   </h2>
 
                   <Row style={{ margin: "3rem 0rem" }}>
